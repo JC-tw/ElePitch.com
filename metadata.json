@@ -1,0 +1,8 @@
+{
+  "name": "ElePitch App",
+  "description": "An AI-powered coach for crafting and practicing elevator pitches.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
